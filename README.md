@@ -1,3 +1,4 @@
 This is my first repository
 <br>
-Author - Priyanshu Singh
+Author - Priyanshu Singh(me)
+
